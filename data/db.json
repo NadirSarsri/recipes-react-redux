@@ -1,0 +1,196 @@
+{
+    "recipes":[
+        {
+            "id":1,
+            "title": "Pizza 4 seasons",
+            "description": "Pizza 4 seasons",
+            "category":{
+                "id": 1,
+                "name": "Italian food"
+            },
+            "ingredients": [
+                {
+                    "id": 1,
+                    "name": "Tomato",
+                    "quantity": 1000,
+                    "unit": "g"
+                },
+                {
+                    "id": 2,
+                    "name": "Cheese",
+                    "quantity": 250,
+                    "unit": "g"
+                },
+                {
+                    "id": 3,
+                    "name": "Olive oil",
+                    "quantity": 30,
+                    "unit": "ml"
+                }
+            ],
+            "stepsToFollow": ["step 1", "step 2", "step 3"],
+            "preparationTime": 68,
+            "imageUrl": "https://www.francine.com/upload/recipe/pizza-4-saisons-832588567.jpeg"
+        },
+        {
+            "id":2,
+            "title": "Cheese Cake",
+            "description": "Cheese Cake with rawberries",
+            "category":{
+                "id": 2,
+                "name": "American food"
+            },
+            "ingredients": [
+                {
+                    "id": 4,
+                    "name": "Rawberries",
+                    "quantity": 250,
+                    "unit": "g"
+                },
+                {
+                    "id": 2,
+                    "name": "Cheese",
+                    "quantity": 200,
+                    "unit": "g"
+                },
+                {
+                    "id": 5,
+                    "name": "Flour",
+                    "quantity": 125,
+                    "unit": "g"
+                }
+            ],
+            "stepsToFollow": ["step 1", "step 2", "step 3"],
+            "preparationTime": 52,
+            "imageUrl": "https://gateauetcuisinerachida.com/wp-content/uploads/2015/03/Recette-cheesecake-new-yorkais.jpg"
+        },
+        {
+            "id":3,
+            "title": "Harira",
+            "description": "Moroccan Harira",
+            "category":{
+                "id": 3,
+                "name": "Moroccan food"
+            },
+            "ingredients": [
+                {
+                    "id": 1,
+                    "name": "Tomato",
+                    "quantity": 1500,
+                    "unit": "g"
+                },
+                {
+                    "id": 6,
+                    "name": "Onion",
+                    "quantity": 300,
+                    "unit": "g"
+                },
+                {
+                    "id": 7,
+                    "name": "Chickpea",
+                    "quantity": 150,
+                    "unit": "g"
+                }
+            ],
+            "stepsToFollow": ["step 1", "step 2", "step 3"],
+            "preparationTime": 90,
+            "imageUrl": "https://choumicha.ma/images/recettes/Harira%20au%20poulet%20et%20a%20la%20Carotte-401x370.png"
+        },
+        {
+            "id":4,
+            "title": "Pizza 4 seasons",
+            "description": "Pizza 4 seasons",
+            "category":{
+                "id": 1,
+                "name": "Italian food"
+            },
+            "ingredients": [
+                {
+                    "id": 1,
+                    "name": "Tomato",
+                    "quantity": 1000,
+                    "unit": "g"
+                },
+                {
+                    "id": 2,
+                    "name": "Cheese",
+                    "quantity": 250,
+                    "unit": "g"
+                },
+                {
+                    "id": 3,
+                    "name": "Olive oil",
+                    "quantity": 30,
+                    "unit": "ml"
+                }
+            ],
+            "stepsToFollow": ["step 1", "step 2", "step 3"],
+            "preparationTime": 68,
+            "imageUrl": "https://www.francine.com/upload/recipe/pizza-4-saisons-832588567.jpeg"
+        },
+        {
+            "id":5,
+            "title": "Pizza 4 seasons",
+            "description": "Pizza 4 seasons",
+            "category":{
+                "id": 1,
+                "name": "Italian food"
+            },
+            "ingredients": [
+                {
+                    "id": 1,
+                    "name": "Tomato",
+                    "quantity": 1000,
+                    "unit": "g"
+                },
+                {
+                    "id": 2,
+                    "name": "Cheese",
+                    "quantity": 250,
+                    "unit": "g"
+                },
+                {
+                    "id": 3,
+                    "name": "Olive oil",
+                    "quantity": 30,
+                    "unit": "ml"
+                }
+            ],
+            "stepsToFollow": ["step 1", "step 2", "step 3"],
+            "preparationTime": 68,
+            "imageUrl": "https://www.francine.com/upload/recipe/pizza-4-saisons-832588567.jpeg"
+        },
+        {
+            "id":6,
+            "title": "Pizza 4 seasons",
+            "description": "Pizza 4 seasons",
+            "category":{
+                "id": 1,
+                "name": "Italian food"
+            },
+            "ingredients": [
+                {
+                    "id": 1,
+                    "name": "Tomato",
+                    "quantity": 1000,
+                    "unit": "g"
+                },
+                {
+                    "id": 2,
+                    "name": "Cheese",
+                    "quantity": 250,
+                    "unit": "g"
+                },
+                {
+                    "id": 3,
+                    "name": "Olive oil",
+                    "quantity": 30,
+                    "unit": "ml"
+                }
+            ],
+            "stepsToFollow": ["step 1", "step 2", "step 3"],
+            "preparationTime": 68,
+            "imageUrl": "https://www.francine.com/upload/recipe/pizza-4-saisons-832588567.jpeg"
+        }
+    ]
+}
